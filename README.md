@@ -7,5 +7,10 @@ Feel free to make pull requests against this README.md if you have made a review
 
 draft-ietf-kitten-krb-spake-preauth was first published as a kitten WG document on 2017-06-06.
 
+SPAKE is shipped on-by-default in Fedora starting 2018-03-27.  This matches the code that MIT krb5 will release in 1.17 at the end of 2018.
+
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
+Henry B (Hank) Hotz | 2017-03-13 | -00 | but content missing | https://www.ietf.org/mail-archive/web/kitten/current/msg06344.html
+Benjamin Kaduk | 2017-08-18 | -00 | content missing, thash concerns | https://www.ietf.org/mail-archive/web/kitten/current/msg06353.html
+Sam Hartman | 2018-01-25 | -04 | deterministic checksums concerns, role of preauth | https://www.ietf.org/mail-archive/web/kitten/current/msg06496.html
