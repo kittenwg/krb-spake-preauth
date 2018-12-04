@@ -16,3 +16,5 @@ Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Revie
 Henry B (Hank) Hotz | 2017-03-13 | -00 | but content missing | https://www.ietf.org/mail-archive/web/kitten/current/msg06344.html
 Benjamin Kaduk | 2017-08-18 | -00 | content missing, thash concerns | https://www.ietf.org/mail-archive/web/kitten/current/msg06353.html
 Sam Hartman | 2018-01-25 | -04 | deterministic checksums concerns, role of preauth | https://www.ietf.org/mail-archive/web/kitten/current/msg06496.html
+Greg Hudson | 2018-12-03 | -06 | use of channel id in second factors | https://www.ietf.org/mail-archive/web/kitten/current/msg06590.html
+Jeffrey Altman | 2018-12-04 | -06 | concerns about attacking factors independently | https://www.ietf.org/mail-archive/web/kitten/current/msg06598.html
