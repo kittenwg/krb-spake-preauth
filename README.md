@@ -18,3 +18,4 @@ Benjamin Kaduk | 2017-08-18 | -00 | content missing, thash concerns | https://ww
 Sam Hartman | 2018-01-25 | -04 | deterministic checksums concerns, role of preauth | https://www.ietf.org/mail-archive/web/kitten/current/msg06496.html
 Greg Hudson | 2018-12-03 | -06 | use of channel id in second factors | https://www.ietf.org/mail-archive/web/kitten/current/msg06590.html
 Jeffrey Altman | 2018-12-04 | -06 | concerns about attacking factors independently | https://www.ietf.org/mail-archive/web/kitten/current/msg06598.html
+Benjamin Kaduk (AD) | 2019-07-27 | -06 | wait for IRTF draft, language suggestions | https://mailarchive.ietf.org/arch/msg/kitten/KbPq3l8h9xRdWz5xrfDmSMZAUrg
